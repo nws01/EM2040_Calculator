@@ -5,4 +5,4 @@ Dependencies:
 - Python
 - pip install tkinter
 
-Executable in Dist folder
+
